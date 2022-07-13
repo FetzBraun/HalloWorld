@@ -18,6 +18,8 @@ public class ProgramMain {
 		
 		System.out.println("The Breakfast Club is over for today");
 		
+		System.out.println("What are you doing than with the rest of the day ?");
+		
 
 	}//end Main ende Programm Ablauf !!!
 

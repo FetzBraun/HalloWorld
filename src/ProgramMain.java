@@ -16,6 +16,8 @@ public class ProgramMain {
 		dads.drive();
 		dads.print();
 		
+		System.out.println("The Breakfast Club is over for today");
+		
 
 	}//end Main ende Programm Ablauf !!!
 
